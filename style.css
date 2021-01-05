@@ -1,1 +1,36 @@
-s
+body{
+          font-family: 'Roboto', sans-serif;
+}
+h2{
+  color:orange;
+  font-size:48px; 
+  margin:0;
+
+}          
+
+h1{
+         font-size:45px; 
+         margin:0;
+}
+.black{
+          color:black;
+}
+.half-width{
+          width:40%;
+          float:left;
+          margin-left:5%;
+          padding-left:2%
+}
+section img{
+          width:70%
+}
+.link-button{
+          text-decoration: none;
+        
+          background:linear-gradient(lightsalmon, tomato);
+         padding:10px 20px;
+         border-radius:5px;
+         color:white;
+         font-weight: 700;
+         
+}
