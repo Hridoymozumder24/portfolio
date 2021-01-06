@@ -97,24 +97,3 @@ section{
   padding-top: 50px;
  
 }
-#title-cen{
-  text-align: center;
-  font-size: 40px;
-  font-weight: 400;
-}
-.song-sec{
-  width: 50%;
-  padding-left: 50px;
-  float: left;
-  
-}
-.song-sec img{
-  width: 60%;
-  padding-left: 5px;
-}
-.size-sec{
-  margin-top: 80px;
-}
-#color-cng{
-  color: crimson;
-}
