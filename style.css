@@ -18,19 +18,74 @@ h1{
 .half-width{
           width:40%;
           float:left;
-          margin-left:5%;
-          padding-left:2%
+          margin-left:8%;
+          padding-left:2%;
+        
 }
 section img{
-          width:70%
+          width:100%
+}
+section{
+  height:400px;
+  
+}
+
 }
 .link-button{
           text-decoration: none;
-        
           background:linear-gradient(lightsalmon, tomato);
          padding:10px 20px;
          border-radius:5px;
          color:white;
          font-weight: 700;
          
+         
+}
+
+.new-class{
+
+  width:40%;
+  float:left;
+  margin-left:8%;
+  padding-left:2%;
+  color:green;
+
+}
+.loop-photo{
+  
+position: absolute;
+width: 336px;
+height: 209px;
+left: 951px;
+top: 1472px;
+
+  
+}
+.loop2-photo{
+  position: absolute;
+width: 339px;
+height: 100px;
+left: 551px;
+top: 1470px;
+
+}
+.loop3-photo{
+  position: absolute;
+width: 370px;
+height: 374px;
+left: 135px;
+top: 1454px;
+
+}
+.note{
+  position: absolute;
+width: 377px;
+height: 48px;
+left: 532px;
+top: 1325px;
+
+}
+.color{
+   color:rgb(255, 166, 1)
+   
 }
