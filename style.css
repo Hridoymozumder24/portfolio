@@ -1,91 +1,120 @@
 body{
-          font-family: 'Roboto', sans-serif;
-}
-h2{
-  color:orange;
-  font-size:48px; 
-  margin:0;
-
-}          
-
-h1{
-         font-size:45px; 
-         margin:0;
-}
-.black{
-          color:black;
+  
+  font-family: 'Patua One', cursive;
+  
 }
 .half-width{
-          width:40%;
-          float:left;
-          margin-left:8%;
-          padding-left:2%;
-        
+  width: 40%;
+  padding-left: 50px;
+  float: left;
+  
 }
-section img{
-          width:100%
+.half-width img{
+  width: 50%;
+  padding-left: 5px;
+
 }
+.orange-name{
+  color: salmon;
+  
+}
+
 section{
-  height:400px;
-  
+  height: 400px;
 }
+#text-center{
+  text-align: center;
+}
+.half-third{
+  
+  float: left;
+  box-shadow: 6px 6px 40px gray;
+  border-radius: 15px;
+  height: 90%;
+  width: 27%;
+  background-color: white;
+  margin-left: 60px;
+  padding-left: 25px;
+  padding-top: 10px;
+  
+
 
 }
+.modify-footer img{
+  width: 70%;
+  
+}
+.modify-footer{
+  margin-top: 250px;
+  margin-left: 400px;
+}
+.div-container{
+  position: relative;
+  
+}
+.left-center{
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  font-size: 25px;
+  font-weight: 700;
+  color: white;
+}
+.right-center{
+  position: absolute;
+  top: 50%;
+  right: 26%;
+  transform: translate(-50%, -50%);
+}
+.half-third img{
+  width: 85%;
+
+}
+.half-third p{
+  font-weight:200;
+  font-size: 20px;
+}
+.info-section{
+  background-image: url("image/latest-work-bg.png");
+  background-repeat: no-repeat;
+}
+
+
 .link-button{
-          text-decoration: none;
-          background:linear-gradient(lightsalmon, tomato);
-         padding:10px 20px;
-         border-radius:5px;
-         color:white;
-         font-weight: 700;
-         
-         
-}
-
-.new-class{
-
-  width:40%;
-  float:left;
-  margin-left:8%;
-  padding-left:2%;
-  color:green;
-
-}
-.loop-photo{
+  text-decoration: none;
+  border: 1px solid;
+  border-radius: 5px;
+  background-image: linear-gradient(45deg,salmon,tomato);
+  color:white;
+  font-weight: 300;
   
-position: absolute;
-width: 336px;
-height: 209px;
-left: 951px;
-top: 1472px;
-
+  padding: 13px 34px 13px 34px;
+  
   
 }
-.loop2-photo{
-  position: absolute;
-width: 339px;
-height: 100px;
-left: 551px;
-top: 1470px;
-
+#update-div{
+  padding-top: 50px;
+ 
 }
-.loop3-photo{
-  position: absolute;
-width: 370px;
-height: 374px;
-left: 135px;
-top: 1454px;
-
+#title-cen{
+  text-align: center;
+  font-size: 40px;
+  font-weight: 400;
 }
-.note{
-  position: absolute;
-width: 377px;
-height: 48px;
-left: 532px;
-top: 1325px;
-
+.song-sec{
+  width: 50%;
+  padding-left: 50px;
+  float: left;
+  
 }
-.color{
-   color:rgb(255, 166, 1)
-   
+.song-sec img{
+  width: 60%;
+  padding-left: 5px;
+}
+.size-sec{
+  margin-top: 80px;
+}
+#color-cng{
+  color: crimson;
 }
